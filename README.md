@@ -8,8 +8,6 @@
 
 ## Table of contents
 
-Use for instance <https://github.com/ekalinin/github-markdown-toc>:
-
 > * [Sac-itSolutions](#title--repository-name)
 >   * [About / Synopsis](#about--synopsis)
 >   * [Table of contents](#table-of-contents)
