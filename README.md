@@ -21,7 +21,7 @@
 
 ## Installation
 
-Sample:
+Installing via GitHub:
 
 * Clone repo using HTTPS/SSL
 * Include repo manually by downloading ZIP-file
