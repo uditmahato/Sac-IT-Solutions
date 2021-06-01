@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="824d599d-341e-4607-b9c1-3bdaadefd933" name="Default Changelist" comment="Push">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/hero1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/hero1.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1622581125097</updated>
       <workItem from="1622581126322" duration="71000" />
-      <workItem from="1622581207468" duration="412000" />
+      <workItem from="1622581207468" duration="3153000" />
     </task>
     <task id="LOCAL-00001" summary="Push">
       <created>1622581415818</created>
@@ -60,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622581415818</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Push">
+      <created>1622581995491</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622581995491</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,5 +86,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Push" />
     <option name="LAST_COMMIT_MESSAGE" value="Push" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="319" y="187" key="Vcs.Push.Dialog.v2" timestamp="1622581997832">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="319" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1622581997832" />
   </component>
 </project>
