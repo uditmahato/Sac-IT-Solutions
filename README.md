@@ -19,12 +19,14 @@
 >     * [Requirements](#requirements)
 >   * [Bugs](#bugs)
 
+
 ## Installation
 
 Installing via GitHub:
 
 * Clone repo using HTTPS/SSL
 * Include repo manually by downloading ZIP-file
+
 
 ## Usage
 The usage of the website is up to you as a developer. you can either reconstruct the whole website, or change the elements to fit your needs. As a part of the open source policy, youre able to change the elements to design your new website.
