@@ -13,11 +13,11 @@
 >   * [Table of contents](#table-of-contents)
 >   * [Installation](#installation)
 >   * [Usage](#usage)
->     * [Screenshots](#screenshots)
 >     * [Features](#features)
 >   * [Code](#code)
 >     * [Content](#content)
 >     * [Requirements](#requirements)
+>   * [Bugs](#bugs)
 
 ## Installation
 
@@ -31,7 +31,7 @@ The usage of the website is up to you as a developer. you can either reconstruct
 
 
 ### Features
-The website contains different functionality such as interactive control-elements, dynamic animations and links to personal profiles.
+The website contains different functionality such as interactive control-elements, dynamic animations and links to personal profiles. The website is partially responsive, but we are currently working with the issue.
 
 
 ## Code
@@ -46,3 +46,8 @@ I mainly used libraries that are already made from different JS-modules and SCSS
 ### Requirements
 
 An IDE for web-development is recommended for developing the website. I personally used WebStorm IDE from JetBrains, but VSC and other free IDEs are also suitable for developing.
+
+
+### Requirements
+
+Nothing to-do
