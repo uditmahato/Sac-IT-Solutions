@@ -27,11 +27,7 @@ Installing via GitHub:
 * Include repo manually by downloading ZIP-file
 
 ## Usage
-The usage of the website is up to you as a developer. you can either reconstruct the whole website, or change the elements to fit your needs. 
-
-
-### Screenshots
-
+The usage of the website is up to you as a developer. you can either reconstruct the whole website, or change the elements to fit your needs. As a part of the open source policy, youre able to change the elements to design your new website.
 
 
 ### Features
@@ -39,6 +35,7 @@ The website contains different functionality such as interactive control-element
 
 
 ## Code
+The languages used are: JavaScript, CSS and HTML, where libraries and modules within the different languages are used. Some examples of this are; Bootstrap, SCSS and jQuery.
 
 ### Content
 
