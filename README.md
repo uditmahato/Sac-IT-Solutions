@@ -48,6 +48,6 @@ I mainly used libraries that are already made from different JS-modules and SCSS
 An IDE for web-development is recommended for developing the website. I personally used WebStorm IDE from JetBrains, but VSC and other free IDEs are also suitable for developing.
 
 
-### Requirements
+### Bugs
 
 Nothing to-do
